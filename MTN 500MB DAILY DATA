@@ -1,0 +1,52 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>500MB Daily for MTN Users</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+      background-color: #f0f8ff;
+      color: #333;
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.2em;
+      color: #0073e6;
+    }
+    h2 {
+      font-size: 2em;
+      margin-top: 0;
+      margin-bottom: 1em;
+      color: #004080;
+    }
+    .price {
+      font-size: 1.5em;
+      margin-bottom: 1.5em;
+    }
+    .price strike {
+      color: red;
+      margin-right: 10px;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #0073e6;
+      color: white;
+      text-decoration: none;
+      padding: 15px 30px;
+      font-size: 1.2em;
+      border-radius: 8px;
+      transition: background-color 0.3s ease;
+    }
+    .btn:hover {
+      background-color: #005bb5;
+    }
+  </style>
+</head>
+<body>
+  <h1>500 MB DAILY</h1>
+  <h2>For MTN users</h2>
